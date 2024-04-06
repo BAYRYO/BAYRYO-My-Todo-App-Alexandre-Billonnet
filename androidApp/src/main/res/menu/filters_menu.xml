@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all_tasks"
+        android:title="@string/all_tasks"/>
+    <item
+        android:id="@+id/filter_todo"
+        android:title="@string/to_do" />
+    <item
+        android:id="@+id/filter_done"
+        android:title="@string/done" />
+    <item
+        android:id="@+id/filter_late"
+        android:title="@string/late" />
+</menu>
